@@ -1,4 +1,3 @@
-
 #include<iostream>
 int main()
 {
@@ -24,7 +23,5 @@ int main()
 			i++;
 		}
 	}
-
 	return 0;
-
 }
