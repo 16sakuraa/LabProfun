@@ -1,5 +1,5 @@
 #include<iostream>
-int main()
+ int main()
 {
 	int num, i = 2;
 
@@ -24,4 +24,4 @@ int main()
 		}
 	}
 	return 0;
-}
+} 
